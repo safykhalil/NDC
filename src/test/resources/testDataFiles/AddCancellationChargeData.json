@@ -1,0 +1,11 @@
+{
+  "producttype" : "Flight",
+  "country": "Egypt",
+  "fareType": "Total Fare",
+  "country": "Egypt",
+  "amount" :"Amount" ,
+  "leivedBy" : "Per Person" ,
+  "adultAmount" : 10 ,
+  "childAmount" : 10 ,
+  "infantAmount" : 10
+}

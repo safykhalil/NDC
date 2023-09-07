@@ -1,0 +1,550 @@
+[33mcommit d189bc59893aa1894d2de8aaf87646aff89517ca[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/review[m[33m)[m
+Merge: f1478e9 d9e13a5
+Author: AbdelRahmanSayed7 <124882214+AbdelRahmanSayed7@users.noreply.github.com>
+Date:   Tue Aug 1 11:16:25 2023 +0300
+
+    Merge branch 'rule-engine-modifications' of https://github.com/WT-NDC/test-scripts into feature/review
+
+[33mcommit d9e13a52a05f4a0677dfb66291bce3f4bc19f4e4[m[33m ([m[1;31morigin/rule-engine-modifications[m[33m)[m
+Author: NAboelaze <N.Aboelaze@tildetech.ae>
+Date:   Tue Aug 1 11:06:58 2023 +0300
+
+    test
+
+[33mcommit 5f7436791546b41cbaa259968e04b123ba23d3be[m
+Author: NAboelaze <N.Aboelaze@tildetech.ae>
+Date:   Mon Jul 31 13:03:27 2023 +0300
+
+    rule-engine
+
+[33mcommit f1478e9cc0bfafe0136e3ba6f443cec65d826f1b[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mبثfeature/review[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 85cfd74 ff83c0f
+Author: AbdelRahmanSayed7 <124882214+AbdelRahmanSayed7@users.noreply.github.com>
+Date:   Mon Jul 31 10:55:40 2023 +0300
+
+    Merge pull request #5 from WT-NDC/negativeRuleEngineTestCases
+    
+    add new negative test cases of rule engine
+
+[33mcommit 85cfd74f59f9ed78981219cd602d9a6283b548f9[m
+Merge: 39fc7aa 89dcf15
+Author: AbdelRahmanSayed7 <124882214+AbdelRahmanSayed7@users.noreply.github.com>
+Date:   Mon Jul 31 10:33:52 2023 +0300
+
+    Merge pull request #4 from WT-NDC/rule-engine-modifications
+    
+    Rule Engine fixes
+
+[33mcommit ff83c0f8682b34b4c4e40cb887e7716dce23b35a[m
+Author: Taghreed0 <T.Ragheb@tildetech.ae>
+Date:   Sun Jul 30 17:07:06 2023 +0300
+
+    add new negative test cases of rule engine
+
+[33mcommit 89dcf1532cd3dafad8f73624b8cdeaeb0f0e8544[m
+Author: NAboelaze <N.Aboelaze@tildetech.ae>
+Date:   Sun Jul 30 15:31:15 2023 +0300
+
+    Rule Engine fixes
+
+[33mcommit 39fc7aa0ff89ef9df3039a49528b8dd35eff7880[m
+Merge: ee1115c 2a4f62c
+Author: AbdelRahmanSayed7 <124882214+AbdelRahmanSayed7@users.noreply.github.com>
+Date:   Thu Jul 27 11:24:23 2023 +0300
+
+    Merge pull request #3 from WT-NDC/feature/rule-engine
+    
+    Feature/rule engine
+
+[33mcommit ee1115c858e1b74bbd8a30912fcab32adddee5c8[m
+Author: AbdelRahmanSayed7 <124882214+AbdelRahmanSayed7@users.noreply.github.com>
+Date:   Wed Jul 26 15:19:03 2023 +0300
+
+    ignore zipping files
+
+[33mcommit 2a4f62c19aa1282f1bae03d0ab4a77c1e172143e[m
+Author: NAboelaze <N.Aboelaze@tildetech.ae>
+Date:   Wed Jul 26 14:57:46 2023 +0300
+
+    Rule Engine Modifications
+
+[33mcommit 8a85380876ce6713fa23075fb823c95b8c06d7b3[m
+Author: NAboelaze <N.Aboelaze@tildetech.ae>
+Date:   Wed Jul 26 14:54:30 2023 +0300
+
+    add Negtive TC For Rule Engine
+
+[33mcommit ae00005c50c9b1128334a7a5f2565968d8329afc[m
+Merge: ef52015 1eeabff
+Author: NAboelaze <139339752+NAboelaze@users.noreply.github.com>
+Date:   Wed Jul 26 14:37:40 2023 +0300
+
+    Merge pull request #2 from WT-NDC/feature/markup001
+    
+    Feature/markup001
+
+[33mcommit ef520159242a361710f63cbb11a62a49f53252f8[m
+Author: AbdelRahmanSayed7 <124882214+AbdelRahmanSayed7@users.noreply.github.com>
+Date:   Wed Jul 26 12:52:54 2023 +0300
+
+    Change discount
+
+[33mcommit f0ee6fc321fa0997c1e462a761a4e43da1443435[m
+Author: AbdelRahmanSayed7 <124882214+AbdelRahmanSayed7@users.noreply.github.com>
+Date:   Mon Jul 24 14:39:45 2023 +0300
+
+    Discount locater Change
+
+[33mcommit 1eeabff687450a853db06a5829f2081157930ddc[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Mon Jul 24 13:57:06 2023 +0300
+
+    Update locators
+
+[33mcommit ed11a11c1af0594c623f13eb1bc8851770725e2a[m
+Merge: e2be885 92de1e1
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Mon Jul 24 13:46:50 2023 +0300
+
+    Merge branch 'main' of https://github.com/WT-NDC/test-scripts
+
+[33mcommit e2be88536996c1aa43dd3385a1953b0a9fffa1a4[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Mon Jul 24 13:36:43 2023 +0300
+
+    edit markup
+
+[33mcommit b1b9bbb2055177443a3ccda823d9c02ce0d0c0a0[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jul 16 09:44:16 2023 +0300
+
+    add new properities
+
+[33mcommit 92de1e1c554dbbc2fa28cb8de4dee1dd8bdaecd7[m
+Merge: 104b1b3 8a18513
+Author: AbdelRahmanSayed7 <124882214+AbdelRahmanSayed7@users.noreply.github.com>
+Date:   Thu Jul 13 18:18:09 2023 +0300
+
+    Merge pull request #1 from WT-NDC/bug/add-new-branch
+    
+    fix bug in select country drop down list
+
+[33mcommit 8a1851308744d57c8420396cfa97b8063e5c5060[m[33m ([m[1;31morigin/bug/add-new-branch[m[33m, [m[1;32mbug/add-new-branch[m[33m)[m
+Author: AbdelRahmanSayed7 <124882214+AbdelRahmanSayed7@users.noreply.github.com>
+Date:   Thu Jul 13 18:16:31 2023 +0300
+
+    fix bug in select country drop down list
+
+[33mcommit 104b1b32c7ea2d5f9b14f33287986cfc49b1a539[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Thu Jul 6 17:22:36 2023 +0300
+
+    edit assert
+
+[33mcommit fc9b6e46e5c0fdd2920a0d57742e12530b3da1bf[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Thu Jul 6 17:20:28 2023 +0300
+
+    edit class name of tc class
+
+[33mcommit 5461a080f1cdda48b34a1d8144f8d5e7b23763a2[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Thu Jul 6 17:19:50 2023 +0300
+
+    edit class name
+
+[33mcommit c49d2dd0472e92164d5220cb006516cf66cc3a0e[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Thu Jul 6 17:17:20 2023 +0300
+
+    edit search one way add repeat search feature test cases
+
+[33mcommit c6c025e89d10dbd696aa1a50d056c90aa1717642[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Thu Jul 6 17:16:42 2023 +0300
+
+    edit search one way add repeat search feature
+
+[33mcommit 8ab5b60b58becb5b65c14a3be6b48e3e1f5511a9[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Thu Jul 6 13:12:11 2023 +0300
+
+    latest update of pom
+
+[33mcommit c6251493b713343e39e292c085df1fdb80ee0182[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Thu Jul 6 13:09:48 2023 +0300
+
+    All required properities
+
+[33mcommit ae49a15b9c68406385ea246edae4b7c71c12c0a0[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Thu Jul 6 13:07:54 2023 +0300
+
+    search about one way flight more than once test cases
+
+[33mcommit c99a824296b3eafc5c308b11b29fdb56ed70f66d[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Thu Jul 6 13:07:20 2023 +0300
+
+    search about one way flight more than once
+
+[33mcommit 12d02cc6a85a0ce5590cdecbcb226bd54667d8f5[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jul 2 14:20:47 2023 +0300
+
+    update import pnr
+
+[33mcommit 97f6d9cc6c8bf88aaca308b577660555e20dc8c8[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jul 2 14:20:26 2023 +0300
+
+    edit discount tc
+
+[33mcommit ec219c685e392b7e26f15cc5d34a4127d68b0c67[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jul 2 14:19:49 2023 +0300
+
+    edit booking package
+
+[33mcommit 84118e4dc00b8f8d1e164ac93a03c68d4dcb6bef[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jul 2 14:18:41 2023 +0300
+
+    edit country
+
+[33mcommit 4ceb205059017e50d431efa3bee536695e5d8698[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jul 2 14:17:45 2023 +0300
+
+    edit rule engine
+
+[33mcommit eee63d487d22149662303c4ec104e120cbb35b49[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jul 2 14:16:34 2023 +0300
+
+    edit tc of login
+
+[33mcommit b7b70ea9a609a0053fe1ccba61de6e2146e76fbc[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:14:52 2023 +0300
+
+    update search booking test cases
+
+[33mcommit 37c54095b237093105dc16b1f316990856d0a177[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:14:15 2023 +0300
+
+    update topup test cases
+
+[33mcommit f84cfa3eb95afd3d4dbf45c585e831e3d6b50ad9[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:13:35 2023 +0300
+
+    update top up search cases
+
+[33mcommit 7ead96bcda93d75f86f68192c7eff64c9dc6055f[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:13:01 2023 +0300
+
+    update search branch
+
+[33mcommit 292a1e00223400d9de571569ca44992ab8d92547[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:12:30 2023 +0300
+
+    update dashboard page
+
+[33mcommit afcf35df147a402b4a1ce0da0e96f47e57c70a20[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:11:10 2023 +0300
+
+    update manual invoice test cases
+
+[33mcommit 9720837c135db75c9d6c896b9d3fae4320242688[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:10:14 2023 +0300
+
+    update new branch tc
+
+[33mcommit a820f93f003f24e573e54f7162cc58ca26b2198b[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:09:45 2023 +0300
+
+    update search booking
+
+[33mcommit 98664fffdbdb75d741a16ea0198e038e1a7a299f[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:09:12 2023 +0300
+
+    update manual invoice page
+
+[33mcommit 07c9c2e7afc7ffb9b1ff807e025a0f9c2af6f5e1[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:08:29 2023 +0300
+
+    update test cases of booking
+
+[33mcommit 583bd8379af2b1194896818eebb3fcde977b4529[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:07:30 2023 +0300
+
+    update tdd files
+
+[33mcommit 3b1c635c2e3e9c185555c497e82d6b0772c86943[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:06:47 2023 +0300
+
+    update one way booking
+
+[33mcommit 9bfda83f3c3129e55c22e58bbd8f9520065f8a5a[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:06:01 2023 +0300
+
+    edit search branch add more facilities
+
+[33mcommit 2c67f2384b695e7742137d84c0a5e7ddd156b42c[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 21 16:05:18 2023 +0300
+
+    update approve to add new branch
+
+[33mcommit 2ad6b572d789f5e2544775a5e1d0eaa4c1f490d4[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue Jun 20 16:39:23 2023 +0300
+
+    update properities file
+
+[33mcommit 381e333c4ab8dcf42edc971fd78f7ab402bcfa32[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue Jun 20 16:38:31 2023 +0300
+
+    update wallet increase cases
+
+[33mcommit 652946be75501fc26e47e7e776e65af7abcfc2ae[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue Jun 20 16:30:54 2023 +0300
+
+    update wallet increase cases
+
+[33mcommit 442f67da0e40682747c50f11e9a06099499aa070[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue Jun 20 16:30:04 2023 +0300
+
+    refund feature of a one way trip
+
+[33mcommit c9b03aa94a0a52437baa1ab9bc11c1d85d596df8[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue Jun 20 16:28:57 2023 +0300
+
+    refund manual invoice feature
+
+[33mcommit f27da934e3995324cf45f63d142369cdd2805187[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue Jun 20 16:28:10 2023 +0300
+
+    update wallet deduct
+
+[33mcommit 32f7f66e952bef4ae2372a6cb1bc7ffe45789ea5[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue Jun 20 16:27:28 2023 +0300
+
+    update wallet cases
+
+[33mcommit 66444a6e8c34a51950ed7c2c36bd3efba114830e[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Thu Jun 15 17:19:14 2023 +0300
+
+    edit some pages
+
+[33mcommit b80cedc6b82b2205518f794154042d5e0d289a31[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Thu Jun 15 17:18:20 2023 +0300
+
+    edit pom file
+
+[33mcommit fe99557b982dab3d5b2ded455156271b4dbe4c67[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Thu Jun 15 17:16:20 2023 +0300
+
+    edit properties file
+
+[33mcommit 394982d06af1269cb494978478ba4bb7d19c19ac[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 14 14:27:33 2023 +0300
+
+    edit refund
+
+[33mcommit 4b5b5ca85895685ef1ad0806a46a543a3c889df1[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 14 14:27:09 2023 +0300
+
+    edit pom file
+
+[33mcommit 29b7487bffac8557b25e6c8c093d3e8484ffc6dc[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 14 13:17:07 2023 +0300
+
+    efit properities
+
+[33mcommit b47cbe43f56c457ed0405a59d568a92738992121[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Wed Jun 14 13:15:11 2023 +0300
+
+    edit pom file
+
+[33mcommit d2b8034f5181d2167cf569eafe52b12bf3df3d7f[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue Jun 13 17:26:36 2023 +0300
+
+    update refund
+
+[33mcommit e1fb68439a2bb774d2686d9535ea4d2d65df0a90[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue Jun 13 17:25:52 2023 +0300
+
+    urgent update
+
+[33mcommit 38d114d04304d7a91b91bad1a36c5893f3942d96[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue Jun 13 13:41:44 2023 +0300
+
+    edit one way booking test cases
+
+[33mcommit a09a90303d46227f08397a4157ba93713a1d3c49[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue Jun 13 13:39:33 2023 +0300
+
+    edit oneway booking to enable refundable trips booking
+
+[33mcommit 1042d08ca1610d823b39aaf7f0b9155a31ab5618[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Mon Jun 12 14:11:17 2023 +0300
+
+    edit shaft version
+
+[33mcommit b1947299c07a2074a5e084f377cf3f234bcd3e47[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Mon Jun 12 10:39:09 2023 +0300
+
+    edit one way booking test cases
+
+[33mcommit 00056843266a966fbc983b9a30ae78f452836316[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jun 11 12:31:53 2023 +0300
+
+    edit resources
+
+[33mcommit d1e8e2fd1280894acdf8bb2a6fd7e606831bc154[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jun 11 12:31:21 2023 +0300
+
+    edit pom
+
+[33mcommit c756d7b1e056de82c9fe5fee584e3a6cf2c2d0be[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jun 11 12:30:35 2023 +0300
+
+    search booking br data
+
+[33mcommit 06aa35730babbeff819cc20a167ebcdb90a1060b[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jun 11 12:29:55 2023 +0300
+
+    add passenger details data
+
+[33mcommit 061cd9f25ea28c220ff1b7ccbb738cf99571ab52[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jun 11 12:29:19 2023 +0300
+
+    add import pnr data
+
+[33mcommit 7451f54eb4393ed95af9581c172c4999c7165f05[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jun 11 12:28:48 2023 +0300
+
+    add booking data .json
+
+[33mcommit 741737984703c9255cf119d28a101ccbfaf0f0c9[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jun 11 12:28:10 2023 +0300
+
+    add topup data json
+
+[33mcommit 3442128e8bb26b0be073e433e0cf55a08f8a01aa[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jun 11 12:27:34 2023 +0300
+
+    add discount data.json
+
+[33mcommit 39de8bfb89d09b70de2481f019c1894e804b83c8[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Sun Jun 11 12:23:57 2023 +0300
+
+    edit one way booking test cases add refund case
+
+[33mcommit 65f2a905bfa51d3f88afc88e47ce9ba051c61cf0[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue Jun 6 10:39:46 2023 +0300
+
+    update version of shaft
+
+[33mcommit 6cedd97f265714d52427413f1f7d838597e5c95c[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue Jun 6 10:26:43 2023 +0300
+
+    deploy all the pages are missed
+
+[33mcommit 1c43cefdcdabe24d5225927c297422f29b0a0c2d[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Mon Jun 5 15:52:42 2023 +0300
+
+    remove *.bat
+
+[33mcommit f4f64be7a0bf01549604f2c3575fb6a3b6ba58f9[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Mon Jun 5 15:51:19 2023 +0300
+
+    remove .iml
+
+[33mcommit dea91e3de82d487c364c7da7cde515bdc5d033e4[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Mon Jun 5 15:48:37 2023 +0300
+
+    remove .idea folder
+
+[33mcommit aaaa728c3f4c134f394f28f567d6a3548c153bb8[m[33m ([m[1;31morigin/AllFeatures[m[33m)[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue May 30 16:41:19 2023 +0300
+
+    Delete allure-results
+
+[33mcommit 59794efe0422ae82934d5042cbcb2b9b9aa5d245[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue May 30 16:37:30 2023 +0300
+
+    Update URL
+
+[33mcommit 32451633ec5c40592c5c01c73dd42081a924f3de[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue May 30 16:09:15 2023 +0300
+
+    add git ignore
+
+[33mcommit db70aa1afc39975f58365033459dd08f0bfaa5ab[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue May 30 15:55:48 2023 +0300
+
+    remove NDC folder
+
+[33mcommit 935cc1b848d2887dacbe0132b57125cc993125be[m
+Author: Moatazmoh98 <moatazabdelzaher3@gmail.com>
+Date:   Tue May 30 15:54:49 2023 +0300
+
+    remove target folder
+
+[33mcommit 42dd0152ea45a27431ca035062206eb2d5cfe92f[m
+Author: AbdelRahmanSayed7 <124882214+AbdelRahmanSayed7@users.noreply.github.com>
+Date:   Thu Apr 27 15:30:15 2023 +0200
+
+    Project Base

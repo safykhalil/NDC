@@ -1,0 +1,28 @@
+
+  {
+    "branchName" : "Test",
+    "agencyName" : "Test Egypt",
+    "staffName" : "Essam Saady",
+    "source" : "CAI",
+    "destination" : "SSH",
+    "airLine" : "egy",
+    "base" : 1,
+    "taxes" : 1,
+    "markup" : 1,
+    "serviceCharge" : 1,
+    "discount" :1,
+    "GdsPnr" : "qx42455335",
+    "airLinePnr" : "zdfr545343",
+    "flightNo" : 545453453,
+    "title" : "Mr",
+    "firstName" : "Moataz",
+    "LastName": "Mohammed",
+    "countryCode": "egy",
+    "passMobile" : "031235153413",
+    "gender" : "Male",
+    "passport" : "A44151534545415",
+    "nationality": "egy",
+    "ticketNO" : 21122315
+
+
+  }

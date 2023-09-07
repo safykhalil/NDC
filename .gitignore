@@ -1,0 +1,9 @@
+target/
+*.iml
+.idea/
+allure-results/
+execution-summary/
+extent-reports/
+*.bat
+*.zip
+*.xml

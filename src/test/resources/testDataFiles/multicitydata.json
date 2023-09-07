@@ -1,0 +1,9 @@
+{
+  "brName" :"moataztest" ,
+  "agnName" :"moataztest",
+  "staffName" :"moataztest",
+  "firstOriginCity" :"CAI",
+  "firstDestinationCity" : "DXB",
+  "secondOriginCity" : "DXB",
+  "secondDestinationCity" : "MCT"
+}
