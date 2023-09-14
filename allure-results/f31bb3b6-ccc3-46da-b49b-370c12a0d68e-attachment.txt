@@ -1,0 +1,13 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                              Test Method: 'firstTest.loginPage.loginWithValidData'                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Type "tomsmith" into "By.id: username". @22-08-2023 10:50:02.0112 AM
+[ReportManager] Type "SuperSecretPassword!" into "Password". @22-08-2023 10:50:02.0404 AM
+[ReportManager] Moved the mouse to the middle of the element. @22-08-2023 10:50:02.0572 AM
+[ReportManager] Click "By.xpath: //*[@id="login"]/button/i". @22-08-2023 10:50:02.0628 AM
+[ReportManager] Verification "ValidateElementExists" PASSED. Expected "Element Should Exist, locator 'By.id: flash'" and Actual "Element Exists". Comparison Type "EQUALS". Validation Type "POSITIVE". @22-08-2023 10:50:03.0942 AM
+[ReportManager] Verification Passed: The Element located by "By.id: flash" exists. @22-08-2023 10:50:03.0943 AM
+[ReportManager] Successfully created attachment 'Screenshot - 1692690603410_loginWithValidData_ValidateElementExists_passed' @22-08-2023 10:50:03.0961 AM
