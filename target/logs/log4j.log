@@ -1,0 +1,190 @@
+[INFO ] 2023-08-22 10:49:54.720 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                                      Powered by SHAFT Engine v7.2.20230621                                                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-22 10:49:55.707 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2023-08-22 10:49:55.708 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-08-22 10:49:55.787 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-08-22 10:49:56.264 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2023-08-22 10:49:56.479 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2023-08-22 10:49:56.496 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized, --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Calculat..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --disable-features=Autofill..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-features=MediaRouter, --disable-features=Translate, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-features=AvoidUnn..., --disable-features=Certific..., --disable-sync, --disable-features=Optimiza..., --disable-features=DialMedi..., --disable-features=GlobalMe..., --disable-features=Improved..., --disable-features=LazyFram..., --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --disable-features=Interest...], extensions: [], prefs: {download.default_directory: C:\Users\user qa\IdeaProjec..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: none, timeouts: {pageLoad: 60000, script: 30000}, unhandledPromptBehavior: accept and notify}
+[INFO ] 2023-08-22 10:49:56.498 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2023-08-22 10:49:56.499 [main] ReportManager - Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time...
+[DEBUG] 2023-08-22 10:49:56.844 [main] ResolutionCache - Resolution chrome=116 in cache (valid until 11:48:41 22/08/2023 EEST)
+[DEBUG] 2023-08-22 10:49:56.845 [main] ResolutionCache - Resolution chrome116=114.0.5735.90 in cache (valid until 12:19:56 22/08/2023 EEST)
+[INFO ] 2023-08-22 10:49:56.845 [main] WebDriverManager - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 116)
+[DEBUG] 2023-08-22 10:49:56.863 [main] WebDriverManager - Driver chromedriver 114.0.5735.90 found in cache
+[INFO ] 2023-08-22 10:49:56.865 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user qa\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[WARN ] 2023-08-22 10:49:56.902 [main] ReportManager - Aug 22, 2023 10:49:56 AM org.openqa.selenium.remote.service.DriverService$Builder getLogOutput
+[WARN ] 2023-08-22 10:49:56.903 [main] ReportManager - INFO: Driver logs no longer sent to console by default; https://www.selenium.dev/documentation/webdriver/drivers/service/#setting-log-output
+[WARN ] 2023-08-22 10:49:58.219 [main] ReportManager - Aug 22, 2023 10:49:58 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2023-08-22 10:49:58.219 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 114
+[INFO ] 2023-08-22 10:49:58.232 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[ERROR] 2023-08-22 10:49:58.235 [main] AllureLifecycle - Could not start step: no test case running
+[ERROR] 2023-08-22 10:49:58.236 [main] AllureLifecycle - Could not stop step: step with uuid 5070ca32-cd64-4db9-adeb-c2858c42c3cf not found
+[INFO ] 2023-08-22 10:49:58.310 [main] Utils - [TestNG] Running:
+  C:\Users\user qa\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml
+
+[INFO ] 2023-08-22 10:49:58.344 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-22 10:49:58.357 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-08-22 10:49:58.362 [main] ReportManager - Initializing Properties...
+[INFO ] 2023-08-22 10:49:58.438 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of open browser configuration method                                             
+                                                        'firstTest.loginPage.openBrowser'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-22 10:49:58.473 [main] ReportManager - Target URL: "https://the-internet.herokuapp.com/login"
+[INFO ] 2023-08-22 10:49:58.496 [main] ReportManager - Initial URL: "data:,"
+[INFO ] 2023-08-22 10:50:00.788 [main] ReportManager - Navigate to url "https://the-internet.herokuapp.com/login".
+[INFO ] 2023-08-22 10:50:01.052 [main] ReportManager - Type into "By.id: username".
+[INFO ] 2023-08-22 10:50:01.271 [main] ReportManager - Type into "Password".
+[INFO ] 2023-08-22 10:50:01.453 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-08-22 10:50:01.509 [main] ReportManager - Click "By.xpath: //*[@id="login"]/button/i".
+[INFO ] 2023-08-22 10:50:01.557 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                              Test Method: 'firstTest.loginPage.loginWithValidData'                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-22 10:50:02.120 [main] ReportManager - Type "tomsmith" into "By.id: username".
+[INFO ] 2023-08-22 10:50:02.404 [main] ReportManager - Type "SuperSecretPassword!" into "Password".
+[INFO ] 2023-08-22 10:50:02.572 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-08-22 10:50:02.628 [main] ReportManager - Click "By.xpath: //*[@id="login"]/button/i".
+[INFO ] 2023-08-22 10:50:03.943 [main] ReportManager - Verification "ValidateElementExists" PASSED. Expected "Element Should Exist, locator 'By.id: flash'" and Actual "Element Exists". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2023-08-22 10:50:03.961 [main] ReportManager - Successfully created attachment 'Screenshot - 1692690603410_loginWithValidData_ValidateElementExists_passed'
+[INFO ] 2023-08-22 10:50:03.966 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: loginWithValidData'
+[INFO ] 2023-08-22 10:50:04.072 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-22 10:50:04.073 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2023-08-22 10:50:04.074 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2023-08-22 10:50:04.074 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".
+[INFO ] 2023-08-22 10:50:04.084 [main] ReportManager - File Action "ReadFileAsByteArray" successfully performed. With the following test data "File Path: "C:\Users\user qa\IdeaProjects\shaftLogin1\target\logs\log4j.log"".
+[INFO ] 2023-08-22 10:50:04.085 [main] ReportManager - File Action "DeleteFile" successfully performed. With the following test data "Target File Path: "target/logs/log4j.log", file was not deleted.".
+[INFO ] 2023-08-22 10:50:04.086 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log: 20230822-105004'
+[DEBUG] 2023-08-22 10:50:04.112 [main] cache - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.113 [main] cache - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.114 [main] cache - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.115 [main] cache - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.115 [main] cache - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+[DEBUG] 2023-08-22 10:50:04.220 [main] cache - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.221 [main] cache - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.221 [main] cache - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.221 [main] cache - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.221 [main] cache - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+[DEBUG] 2023-08-22 10:50:04.335 [main] cache - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.336 [main] cache - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.336 [main] cache - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.336 [main] cache - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.336 [main] cache - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+[DEBUG] 2023-08-22 10:50:04.342 [main] cache - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.342 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.343 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.343 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.343 [main] cache - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+[DEBUG] 2023-08-22 10:50:04.344 [main] cache - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.345 [main] cache - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.345 [main] cache - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.345 [main] cache - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.345 [main] cache - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+[DEBUG] 2023-08-22 10:50:04.347 [main] cache - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.347 [main] cache - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.347 [main] cache - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.347 [main] cache - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.347 [main] cache - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+[DEBUG] 2023-08-22 10:50:04.350 [main] cache - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2023-08-22 10:50:04.350 [main] cache - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.351 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.351 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.351 [main] cache - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.351 [main] cache - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+[DEBUG] 2023-08-22 10:50:04.359 [main] cache - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.360 [main] cache - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.360 [main] cache - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.360 [main] cache - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.360 [main] cache - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+[DEBUG] 2023-08-22 10:50:04.363 [main] cache - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.363 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.363 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.364 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.364 [main] cache - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+[DEBUG] 2023-08-22 10:50:04.364 [main] cache - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.365 [main] cache - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.365 [main] cache - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.365 [main] cache - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.365 [main] cache - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+[DEBUG] 2023-08-22 10:50:04.373 [main] cache - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.373 [main] cache - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.373 [main] cache - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.373 [main] cache - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.373 [main] cache - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+[DEBUG] 2023-08-22 10:50:04.383 [main] cache - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.384 [main] cache - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.384 [main] cache - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.384 [main] cache - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.384 [main] cache - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+[DEBUG] 2023-08-22 10:50:04.412 [main] cache - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.412 [main] cache - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.412 [main] cache - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.413 [main] cache - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.413 [main] cache - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+[DEBUG] 2023-08-22 10:50:04.420 [main] cache - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.421 [main] cache - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.421 [main] cache - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.421 [main] cache - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.421 [main] cache - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+[DEBUG] 2023-08-22 10:50:04.428 [main] cache - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.429 [main] cache - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.429 [main] cache - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.429 [main] cache - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.429 [main] cache - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+[DEBUG] 2023-08-22 10:50:04.430 [main] cache - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.430 [main] cache - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.431 [main] cache - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.431 [main] cache - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.431 [main] cache - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+[DEBUG] 2023-08-22 10:50:04.432 [main] cache - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.432 [main] cache - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.432 [main] cache - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.433 [main] cache - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.433 [main] cache - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+[DEBUG] 2023-08-22 10:50:04.433 [main] cache - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-22 10:50:04.434 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.434 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[DEBUG] 2023-08-22 10:50:04.434 [main] cache - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[DEBUG] 2023-08-22 10:50:04.434 [main] cache - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user%20qa/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+[INFO ] 2023-08-22 10:50:04.440 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "allure-results/cucumberReport.html"".
+[INFO ] 2023-08-22 10:50:04.445 [main] ReportManager - Successfully created attachment 'HTML - Checkpoints Report'
+[INFO ] 2023-08-22 10:50:04.658 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2023-08-22 10:50:04.663 [main] ReportManager - ===============================================
+[INFO ] 2023-08-22 10:50:04.663 [main] ReportManager - Suite
+[INFO ] 2023-08-22 10:50:04.663 [main] ReportManager - Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+[INFO ] 2023-08-22 10:50:04.663 [main] ReportManager - ===============================================
+[INFO ] 2023-08-22 10:50:04.667 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative File Path: "execution-summary/ExecutionSummaryReport_22-08-2023_10-50-04-0665-AM.html"".
+[INFO ] 2023-08-22 10:50:04.670 [main] ReportManager - File Action "WriteToFile" successfully performed. With the following test data "Target File Path: "C:\Users\user qa\IdeaProjects\shaftLogin1\execution-summary\ExecutionSummaryReport_22-08-2023_10-50-04-0665-AM.html"".
+[INFO ] 2023-08-22 10:50:04.678 [main] ReportManager - Executing: ".\execution-summary/ExecutionSummaryReport_*.html" locally.
+[INFO ] 2023-08-22 10:50:04.996 [main] ReportManager - Terminal Action "PerformTerminalCommands" successfully performed. With the following test data "Host Name: "localHost" | Command: ".\execution-summary/ExecutionSummaryReport_*.html" | Exit Status: "0"".
+[INFO ] 2023-08-22 10:50:04.996 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                                         Test Execution Summary Results                                                         
+                                              Total Cases: 1 --> Passed: 1 | Failed: 0 | Skipped: 0                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-22 10:50:04.997 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                             This test run was powered by SHAFT Engine v7.2.20230621                                             
+                                  SHAFT Engine is *and will always be* 100% FREE for commercial and private use                                  
+                                                       in compliance with the MIT license                                                       
+                                           https://github.com/ShaftHQ/SHAFT_ENGINE/blob/master/LICENSE                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+
